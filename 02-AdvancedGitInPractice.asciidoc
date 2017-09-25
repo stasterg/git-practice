@@ -1,3 +1,2 @@
 This is the beginning of chapter 2
 I think..
-Chapter deals with more advanced git commands, such as tag and cherry-pick.
