@@ -1,1 +1,3 @@
-Preface precedes chapter 1 and acts as an introduction.
+Preface precedes chapter 1 and  introduces the reader to Git basics.
+Moreover ......
+
