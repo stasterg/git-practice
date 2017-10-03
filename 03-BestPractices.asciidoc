@@ -1,0 +1,1 @@
+In this chapter a handful of best practices is covered in order to provide the reader with some initially essential guide into Git.
